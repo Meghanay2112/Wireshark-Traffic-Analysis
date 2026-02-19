@@ -10,7 +10,6 @@ The objective of this task is to capture live network traffic using Wireshark an
 - Wireshark (Network Protocol Analyzer)
 
 ---
-
 ##  Procedure Followed
 
 1. Installed Wireshark along with Npcap.
